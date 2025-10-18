@@ -5,7 +5,7 @@ using namespace std;
 
 class Wektor2D
 {
-    
+
 private:
     double x, y;
 
